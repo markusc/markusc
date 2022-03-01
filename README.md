@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi, I'm Markus!
 
-<!--
-**markusc/markusc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+During the day I work as the Web Lead for a publicly traded Finnish company and in the evening I work on making all kinds of web3 things. I have over 4 years of experience working in the web2 space as a developer and in 2020 I started dabbling in the web3 space. Ever since then I haven't looked back.
 
-Here are some ideas to get you started:
+## My expertise is:
+* Web development & design
+    * React
+    * Nextjs
+    * Web3.js
+    * Tailwind CSS
+    * Styled-components
+    * and much more...
+* Digital marketing
+    * SEO
+    * Paid advertising
+    * Marketing strategy
+    * Copywriting
+    * Graphic design
+    * and much more...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Lohko
+Lohko (that's "Block" in Finnish) is a 2-man web3 development agency I founded with a smart contract developer friend. We work on all kinds of web3 project, but have recently been focusing on NFTs, DeFi and DAO stuff.
+
+You can read more about us at [lohko.io](https://lohko.io)
+
+## A few web3 project we've built recently
+* [Meta Country Club](https://metacountryclub.io)
+* [Token4u](https://token4u.io)
+* [Liferz](https://liferz.vercel.app) (link to demo website)
+* [Mad Crocodile Crew](https://madcrocodilecrew.io)
+
+## Want to know how we could help you?
+Get in touch with us via [Twitter](https://twitter.com/lohkoio), [Discord](https://discord.gg/WdCjFWZEZh) or email us at lohkoconsulting[at]gmail.com!
