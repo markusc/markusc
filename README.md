@@ -6,6 +6,7 @@ During the day I work as the Web Lead for a publicly traded Finnish company and 
 * Web development & design
     * React
     * Nextjs
+    * Ethers
     * Web3.js
     * Tailwind CSS
     * Styled-components
