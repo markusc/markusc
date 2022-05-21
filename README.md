@@ -6,6 +6,7 @@ During the day I work as the Web Lead for a publicly traded Finnish company and 
 * Web development & design
     * React
     * Nextjs
+    * wagmi
     * Ethers
     * Web3.js
     * Tailwind CSS
@@ -25,10 +26,10 @@ Lohko (that's "Block" in Finnish) is a 2-man web3 development agency I founded w
 You can read more about us at [lohko.io](https://lohko.io)
 
 ## A few web3 project we've built recently
-* [Meta Country Club](https://metacountryclub.io)
-* [Token4u](https://token4u.io)
-* [Liferz](https://liferz.vercel.app) (link to demo website)
-* [Mad Crocodile Crew](https://madcrocodilecrew.io)
+* [Storyworlds Comic]([https://metacountryclub.io](https://mint.storyworldscomic.xyz/))
+* [Pixel Interfaces](https://pixelinterfaces.com)
+* [Token4u]([https://token4u.io](https://www.token4u.io/)
+* [Breezy Bears](https://breezybearsmint.com)
 
 ## Want to know how we could help you?
-Get in touch with us via [Twitter](https://twitter.com/lohkoio), [Discord](https://discord.gg/WdCjFWZEZh) or email us at lohkoconsulting[at]gmail.com!
+Get in touch with us via [Twitter](https://twitter.com/lohkoio), [Discord](https://discord.gg/cN3gsGuRff) or email us at hello[at]lohko.io!
