@@ -28,7 +28,7 @@ You can read more about us at [lohko.io](https://lohko.io)
 ## A few web3 project we've built recently
 * [Storyworlds Comic](https://mint.storyworldscomic.xyz/)
 * [Pixel Interfaces](https://pixelinterfaces.com)
-* [Token4u](https://www.token4u.io/
+* [Token4u](https://www.token4u.io/)
 * [Breezy Bears](https://breezybearsmint.com)
 
 ## Want to know how we could help you?
