@@ -1,6 +1,6 @@
 # Hi, I'm Markus!
 
-During the day I work as the Web Lead for a publicly traded Finnish company and in the evening I work on making all kinds of web3 things. I have over 4 years of experience working in the web2 space as a developer and in 2020 I started dabbling in the web3 space. Ever since then I haven't looked back.
+I used tp work as the Web Lead for a publicly traded Finnish company, but recently quit my job there and went full-time web3. I have over 4 years of experience working in the web2 space as a developer and in 2020 I started dabbling in the web3 space. Ever since then I haven't looked back.
 
 ## My expertise is:
 * Web development & design
