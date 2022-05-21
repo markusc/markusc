@@ -26,9 +26,9 @@ Lohko (that's "Block" in Finnish) is a 2-man web3 development agency I founded w
 You can read more about us at [lohko.io](https://lohko.io)
 
 ## A few web3 project we've built recently
-* [Storyworlds Comic]([https://metacountryclub.io](https://mint.storyworldscomic.xyz/))
+* [Storyworlds Comic](https://mint.storyworldscomic.xyz/)
 * [Pixel Interfaces](https://pixelinterfaces.com)
-* [Token4u]([https://token4u.io](https://www.token4u.io/)
+* [Token4u](https://www.token4u.io/
 * [Breezy Bears](https://breezybearsmint.com)
 
 ## Want to know how we could help you?
